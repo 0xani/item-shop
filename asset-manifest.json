@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-site/static/css/main.7f9423d9.chunk.css",
-    "main.js": "/portfolio-site/static/js/main.1c059bda.chunk.js",
-    "main.js.map": "/portfolio-site/static/js/main.1c059bda.chunk.js.map",
-    "runtime-main.js": "/portfolio-site/static/js/runtime-main.9a0d7183.js",
-    "runtime-main.js.map": "/portfolio-site/static/js/runtime-main.9a0d7183.js.map",
-    "static/js/2.2a5383bd.chunk.js": "/portfolio-site/static/js/2.2a5383bd.chunk.js",
-    "static/js/2.2a5383bd.chunk.js.map": "/portfolio-site/static/js/2.2a5383bd.chunk.js.map",
-    "index.html": "/portfolio-site/index.html",
-    "precache-manifest.d524993c995da9010fae1a8f917729f1.js": "/portfolio-site/precache-manifest.d524993c995da9010fae1a8f917729f1.js",
-    "service-worker.js": "/portfolio-site/service-worker.js",
-    "static/css/main.7f9423d9.chunk.css.map": "/portfolio-site/static/css/main.7f9423d9.chunk.css.map",
-    "static/js/2.2a5383bd.chunk.js.LICENSE.txt": "/portfolio-site/static/js/2.2a5383bd.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/portfolio-site/static/media/Burbank.3bd7e5fa.ttf"
+    "main.css": "/item-shop/static/css/main.22f094c4.chunk.css",
+    "main.js": "/item-shop/static/js/main.4237c383.chunk.js",
+    "main.js.map": "/item-shop/static/js/main.4237c383.chunk.js.map",
+    "runtime-main.js": "/item-shop/static/js/runtime-main.bbf14afc.js",
+    "runtime-main.js.map": "/item-shop/static/js/runtime-main.bbf14afc.js.map",
+    "static/js/2.2a5383bd.chunk.js": "/item-shop/static/js/2.2a5383bd.chunk.js",
+    "static/js/2.2a5383bd.chunk.js.map": "/item-shop/static/js/2.2a5383bd.chunk.js.map",
+    "index.html": "/item-shop/index.html",
+    "precache-manifest.e9f597f5b687fd3a12fcfc235cda3c83.js": "/item-shop/precache-manifest.e9f597f5b687fd3a12fcfc235cda3c83.js",
+    "service-worker.js": "/item-shop/service-worker.js",
+    "static/css/main.22f094c4.chunk.css.map": "/item-shop/static/css/main.22f094c4.chunk.css.map",
+    "static/js/2.2a5383bd.chunk.js.LICENSE.txt": "/item-shop/static/js/2.2a5383bd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/item-shop/static/media/Burbank.3bd7e5fa.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a0d7183.js",
+    "static/js/runtime-main.bbf14afc.js",
     "static/js/2.2a5383bd.chunk.js",
-    "static/css/main.7f9423d9.chunk.css",
-    "static/js/main.1c059bda.chunk.js"
+    "static/css/main.22f094c4.chunk.css",
+    "static/js/main.4237c383.chunk.js"
   ]
 }
